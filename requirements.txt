@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+econml>=0.14
+lightgbm>=3.3
+scipy>=1.9
+matplotlib>=3.6
